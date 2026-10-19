@@ -37,9 +37,19 @@ I am an Industrial Engineer and Full Stack Developer with over 15 years of prove
 
 <div align="center">
 
-  <img src="https://github-readme-stats.shion.dev/api?username=Alfred1289&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="49%" />
+  <img
+    src="https://github-readme-stats.shion.dev/api?username=Alfred1289&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false"
+    alt="Estadísticas de GitHub"
+    width="100%"
+  />
 
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Alfred1289&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Lenguajes más utilizados" width="49%" />
+  <br/><br/>
+
+  <img
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=Alfred1289&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
+    alt="Lenguajes de programación más utilizados"
+    width="100%"
+  />
 
 </div>
 
