@@ -7,9 +7,13 @@
   <br/><br/>
 
   <!-- Gráfico de actividad de GitHub -->
-  <a href="https://github.com/Alfred1289">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alfred1289&bg_color=0d1117&color=00bfff&line=00bfff&point=ffffff&area=true&hide_border=true" width="100%" alt="Gráfico de actividad de GitHub" />
-  </a>
+
+  <div align="center">
+  
+  <img src="https://streak-stats.demolab.com/?user=Alfred1289&theme=dark&hide_border=true" width="100%" alt="Racha de contribuciones de GitHub" />
+  
+  </div>
+
 
 </div>
 
