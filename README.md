@@ -1,17 +1,18 @@
 
 <div align="center">
 
-  <!-- Contador de visitas al perfil -->
-  <img src="https://komarev.com/ghpvc/?username=Alfred1289&label=Visitas+al+perfil&color=0e75b6&style=for-the-badge" alt="Contador de visitas de Alfred1289" />
+  <!-- Contador de visitas -->
+  <img src="https://komarev.com/ghpvc/?username=Alfred1289&label=Visitas+al+perfil&color=0e75b6&style=for-the-badge" alt="Visitas al perfil" />
 
   <br/><br/>
 
   <!-- Gráfico de actividad de GitHub -->
   <a href="https://github.com/Alfred1289">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alfred1289&bg_color=0d1117&color=00bfff&line=00bfff&point=ffffff&area=true&hide_border=true&custom_title=Actividad%20de%20GitHub" width="100%" alt="Gráfico de actividad de GitHub" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alfred1289&bg_color=0d1117&color=00bfff&line=00bfff&point=ffffff&area=true&hide_border=true" width="100%" alt="Gráfico de actividad de GitHub" />
   </a>
 
 </div>
+
 
 
 
