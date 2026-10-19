@@ -1,16 +1,13 @@
 <div align="center">
-  <p>Visitor count</p>
-    <img src="https://komarev.com" alt="Contador de Visitas" />
-</div>
-
+  <!-- Contador de Visitas Corregido -->
+  <img src="https://komarev.com" alt="Contador de Visitas" />
+  
   <br/>
-</div>
-<div>
-  <div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alfred1289&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true"/>
+
+  <!-- Gráfico de Actividad en Servidor Espejo Estable -->
+  <img src="https://ashutosh.dev" width="100%" alt="Activity Graph" />
 </div>
 
-</div>
 # 💫 About Me:
 I am an Industrial Engineer and Full Stack Developer with over 15 years of proven experience driving B2B consultative sales and commercial strategy. My transition into software engineering stems from a strong conviction that technology is the most powerful vehicle for scaling businesses and eliminating operational inefficiencies.<br>I bring a unique perspective to web application development: I deeply understand business objectives, customer requirements, and technical feasibility, allowing me to translate complex problems into efficient, scalable, and user-centric digital products.<br>What I bring to a technical team:<br><br>• Analytical mindset and complex problem-solving skills rooted in industrial engineering.<br><br>• Highly collaborative approach aligned with business goals and agile methodologies.<br><br>• Assertive communication, effectively acting as a bridge between technical teams and business stakeholders.<br><br>• Commitment to technical excellence, currently focused on continuous learning and the optimization of advanced web platforms.<br>I am looking to join forward-thinking projects where my commercial maturity and full-stack development skills can deliver high-impact software solutions.<br>
 
